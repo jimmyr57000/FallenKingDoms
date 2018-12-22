@@ -1,0 +1,8 @@
+name: FallenKingdoms
+author: jimmyr57000
+version: 1.0.1
+main: fr.jrich.fallenkingdoms.FKPlugin
+depend: [ProtocolLib]
+commands:
+  fk:
+    permission: fk.admin

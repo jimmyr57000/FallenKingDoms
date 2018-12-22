@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_161"/>
+	<classpathentry kind="lib" path="C:/Users/Jimmy Rich/Desktop/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jimmy Rich/Desktop/spigot-1.7.10-SNAPSHOT-b1657.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jimmy Rich/Desktop/Développement/Dépendances/ProtocolLib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
